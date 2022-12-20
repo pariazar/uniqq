@@ -1,0 +1,47 @@
+{
+  "name": "uniqq",
+  "version": "1.0.0",
+  "description": "Package that removes duplicates from multiple nested array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "hamedPa",
+  "engines": {
+    "node": ">4.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/hamedpa/uniqq",
+  "contributors": [
+    {
+      "name": "HamedPa",
+      "email": "hamedpa21@gmail.com",
+      "url": "https://github.com/hamedpa"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/hamedpa/uniqq/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamedpa/uniqq"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "chai": "4.1.2",
+    "mocha": "^10.0.0"
+  },
+  "keywords": [
+    "array",
+    "duplicate",
+    "unique",
+    "uniqq",
+    "remove",
+    "duplicate",
+    "in",
+    "place",
+    "no",
+    "copy",
+    "remove-duplicate"
+  ]
+}
