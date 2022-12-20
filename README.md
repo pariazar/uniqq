@@ -28,7 +28,7 @@ const arrObj = [
   { name: 'Leonor' }
 ];
 
-console.log(removeDuplicates(arrObj));
+console.log(removeDuplicates(arrObj, key = 'name'));
 
 //Prints:
 //
@@ -47,6 +47,7 @@ console.log(removeDuplicates(arrObj));
 This method remove all duplicate objects recursively base on object key </br> Then use it as follows:
 
 ```javascript
+const removeDuplicates = require('uniqq');
 const arr = [{ id: 1, title: 'technology lovers' }, { id: 2, title: 'geeks' }, { id: 2, title: 'geeks' }, { id: 1, title: 'musics' }, {
     id: 4, jobs: [
         { id: 1, title: 'chef' },

@@ -1,6 +1,6 @@
 {
   "name": "uniqq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package that removes duplicates from multiple nested array.",
   "main": "index.js",
   "scripts": {
