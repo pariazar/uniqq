@@ -27,7 +27,7 @@
     "url": "https://github.com/pariazar/uniqq"
   },
   "devDependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^8.0.1",
     "chai": "4.3.7",
     "mocha": "^10.0.0"
   },
